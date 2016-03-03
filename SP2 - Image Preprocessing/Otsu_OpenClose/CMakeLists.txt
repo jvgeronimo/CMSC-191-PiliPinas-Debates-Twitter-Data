@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( Otsu_OpenClose )
+find_package( OpenCV REQUIRED )
+add_executable( Otsu_OpenClose Otsu_OpenClose.cpp )
+target_link_libraries( Otsu_OpenClose ${OpenCV_LIBS} )
