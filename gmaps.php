@@ -25,7 +25,7 @@
 ?>
 
     <head>
-       <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBMvdx1IMk2WfBU56MoeAkMj4ODJbLbCFw"></script>
+       <script src="http://maps.googleapis.com/maps/api/js?key=API_KEY"></script>
         <script>
 			var mallPath = [];
 			var smLatLng = [];
