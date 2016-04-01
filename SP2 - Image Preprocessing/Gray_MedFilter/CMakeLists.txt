@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project( Gray_MedFilter )
-find_package( OpenCV REQUIRED )
-add_executable( Gray_MedFilter Gray_MedFilter.cpp )
-target_link_libraries( Gray_MedFilter ${OpenCV_LIBS} )
