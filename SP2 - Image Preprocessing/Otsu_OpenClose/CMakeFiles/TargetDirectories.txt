@@ -1,1 +1,0 @@
-/home/oneil/Desktop/SP2 - Image Preprocessing/Otsu_OpenClose/CMakeFiles/Otsu_OpenClose.dir
